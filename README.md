@@ -769,6 +769,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Spectre](https://github.com/kylef/Spectre) :penguin:- BDD Framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
+* [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example host app.
 
 ### Text
 *A collection of text projects.* [back to top](#readme) 
